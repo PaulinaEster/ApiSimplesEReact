@@ -10,5 +10,6 @@ npm-debug.*
 *.orig.*
 web-build/
 
+anotacoes.txt
 # macOS
 .DS_Store
